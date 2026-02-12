@@ -1,10 +1,10 @@
 <div align="center">
- <!-- 设置背景图片 -->
+
 
 
   <h1>🎉 W E L C O M E &nbsp&nbsp | &nbsp&nbsp 欢 迎 🎉</h1>
   <p><b>
-    这里是 <a href = "http://server.xn--9iqx4j49srgt.xyz:5858/LivelyXuan">LivelyXuan</a> 🎃 I am a Full Stack Developer<br>
+    这里是 <a href = "https://github.com/Melody-Raven">LivelyXuan</a> 🎃 I am a Full Stack Developer<br>
     ♻️ 2025 ©️ Raven ♻️
   </b></p>
 
@@ -41,7 +41,7 @@
   - [ ] Python
 
 - 🤝 Joined Team:
-[ Nebulamist](http://server.千空之星.xyz:5858/Nebulamist/)
+[QuantumMelody](https://github.com/QuantumMelody/)
 
 
 - 🔥 I am just an amateur enthusiast in the field of coding.
