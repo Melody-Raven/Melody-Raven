@@ -27,6 +27,11 @@
 
 - 🏔️ I'm currently learning:
   - [ ] CSharp
+  - [ ] Python
+  - [ ] Cpp
+  - [ ] Java
+  - [ ] PHP
+
 
   🔧 Familiar Nuget Libraries: 
   - 1.Exiled
@@ -37,8 +42,7 @@
   - 6.Newtonsoft.Json .Bson
   - 7.EPPlus
   - 8.DiscordRPC
-  
-  - [ ] Python
+
 
 - 🤝 Joined Team:
 [QuantumMelody](https://github.com/QuantumMelody/)
