@@ -4,8 +4,8 @@
 
   <h1>🎉 W E L C O M E &nbsp&nbsp | &nbsp&nbsp 欢 迎 🎉</h1>
   <p><b>
-    这里是 <a href = "https://github.com/Melody-Raven">LivelyXuan</a> 🎃 I am a Full Stack Developer<br>
-    ♻️ 2026 ©️ Raven ♻️
+    这里是 <a href = "https://github.com/Melody-Raven">Anym0re</a> 🎃 I am a Full Stack Developer<br>
+    ♻️ 2026 ©️ Nebulamist ♻️
   </b></p>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -20,7 +20,7 @@
 
 ## 🕒 Time: UTC +8
 
-- **🌮 You can call me LivelyXuan,Raven，MelodyMaster or LivelyNick
+- **🌮 You can call me LivelyXuan,Raven，Anym0re or LivelyNick
 
 
 
@@ -45,7 +45,7 @@
 
 
 - 🤝 Joined Team:
-[QuantumMelody](https://github.com/QuantumMelody/)
+  [Nebulamist](https://git.furstar.uno/nebulamist)
 
 
 - 🔥 I am just an amateur enthusiast in the field of coding.
